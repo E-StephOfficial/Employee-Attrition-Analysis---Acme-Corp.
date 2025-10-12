@@ -38,7 +38,7 @@ The objective of this project was to identify why employees are leaving and sugg
 I also created an infographic slide deck instead of just showing SQL scripts, to make the insights more engaging for stakeholders.
 👉 Check out the Slide Deck PDF[Business Report](Employee_Attrition_Business_Report.pdf)
 👉 Full SQL scripts available in SQL_Scripts.sql [SQl Script](HR_Analytics.sql)
-👉 Link to Video explanation : https://www.linkedin.com/posts/activity-7374466790170525696-je_E?utm_source=share&utm_medium=member_ios&rcm=ACoAAErJvg0Bz1yCecNauaGnJmeE9Eo3p4xcXFc
+👉 Link to Video explanation : [https://www.linkedin.com/posts/activity-7374466790170525696-je_E?utm_source=share&utm_medium=member_ios&rcm=ACoAAErJvg0Bz1yCecNauaGnJmeE9Eo3p4xcXFc]
 
 # Key Takeaway
 Attrition isn’t random — it’s concentrated in specific groups. With only SQL, I was able to uncover actionable business insights without relying on BI dashboards.
